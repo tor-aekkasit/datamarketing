@@ -6,3 +6,4 @@ gunicorn
 requests
 beautifulsoup4
 playwright
+whitenoise>=6.0
